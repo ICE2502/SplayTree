@@ -1,0 +1,4 @@
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\bin\Release\SplayTree.dll
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\bin\Release\SplayTree.pdb
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\obj\Release\SplayTree.dll
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\obj\Release\SplayTree.pdb

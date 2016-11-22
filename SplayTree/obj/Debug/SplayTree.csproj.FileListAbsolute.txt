@@ -1,0 +1,5 @@
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\bin\Debug\SplayTree.dll
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\bin\Debug\SplayTree.pdb
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\obj\Debug\SplayTree.dll
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\obj\Debug\SplayTree.pdb
+C:\Users\Slavo\documents\visual studio 2015\Projects\KniznicaGrygarU2\SplayTree\obj\Debug\SplayTree.csprojResolveAssemblyReference.cache
